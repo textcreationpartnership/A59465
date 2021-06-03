@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votum perenne a poem to the King on New-Years-Day / by Thomas Shadwell, Esq. ...</title>
+            <author>Shadwell, Thomas, 1642?-1692.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59465</idno><idno type="EEBO-CITATION">12426795</idno>
+  <idno type="VID">61893</idno>
+  <idno type="EEBO-PROQUEST">2240958501</idno>
+  
+            <idno type="STC">Wing S2886</idno>
+            <idno type="STC">ESTC R13273</idno>
+            <idno type="OCLC">12426795</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61893)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 297:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votum perenne a poem to the King on New-Years-Day / by Thomas Shadwell, Esq. ...</title>
+                  <author>Shadwell, Thomas, 1642?-1692.</author>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Crouch ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First ed. Cf. NUC pre-1956.</note>
+                  <note>Advertisement on p. 4.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61893:1"/>
+            <pb facs="tcp:61893:1"/>
+            <p>Votum Perenne. A POEM TO THE KING ON NEW-YEARS-DAY.</p>
+            <p>BY <hi>THOMAS SHADWELL,</hi> Esq; Poet Laureat, and Historiographer Royal.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Crouch,</hi> at the Corner of <hi>Pope's-Head-Alley,</hi> over against the <hi>Royal-Exchange,</hi> 1692.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:61893:2"/>
+            <pb n="1" facs="tcp:61893:2"/>
+            <head>Votum Perenne.</head>
+            <head type="sub">A POEM to the KING on <hi>New-Years-Day.</hi>
+            </head>
+            <lg>
+               <l>NOW <hi>Janus</hi> in his Office does appear,</l>
+               <l>To close the Last, and to unfold this Year;</l>
+               <l>His dreadful <hi>Temple</hi> now wide open stands,</l>
+               <l>And <hi>Europe</hi> is Oppress'd by <hi>Warring Bands.</hi>
+               </l>
+               <l>For You Sir, 'tis reserv'd to quell the <hi>Foes,</hi>
+               </l>
+               <l>And only You those Fatal Doors can close.</l>
+               <l>
+                  <hi>Illustrious Monarch!</hi> on this Solemn Day</l>
+               <l>The Humble <hi>Tribute</hi> of our <hi>Hearts</hi> we pay.</l>
+               <l>Big with our <hi>Vows</hi> and <hi>Pray'rs,</hi> that <hi>Heaven</hi> would bless</l>
+               <l>Your <hi>Person</hi> and your <hi>Arms</hi> with such Success,</l>
+               <l>That ev'ry Day your <hi>Glory</hi> may encrease.</l>
+               <l>And never may Sinister <hi>Fate</hi> oppose,</l>
+               <l>Till you have rais'd your <hi>Friends,</hi> and humbled all your <hi>Foes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No <hi>Nation</hi> is like ours securely Blest,</l>
+               <l>While all the <hi>World</hi> is Plagu'd, we are at Rest.</l>
+               <l>This more than <hi>Goshen</hi> is, the <hi>Power Divine</hi>
+               </l>
+               <l>Has made Two <hi>Suns</hi> in our <hi>Horizon</hi> shine:</l>
+               <l>A <hi>Prince</hi> who bravely can abroad <hi>orecome,</hi>
+               </l>
+               <l>While his Fair <hi>Queen</hi> can wisely <hi>Reign</hi> at Home.</l>
+            </lg>
+            <lg>
+               <l>Our last Three Years so <hi>Marvellous</hi> have been,</l>
+               <l>Th' <hi>Almighty Pow'r</hi> to <hi>Atheists</hi> must be seen:</l>
+               <pb n="2" facs="tcp:61893:3"/>
+               <l>Since the vast <hi>Scene</hi> was shifted with such ease,</l>
+               <l>Calm was the <hi>Land,</hi> and Quiet were the <hi>Seas,</hi>
+               </l>
+               <l>And all along th' <hi>Invasion</hi> it was Peace.</l>
+               <l>The <hi>Sun</hi> thus gently gives the <hi>Morning</hi> Birth,</l>
+               <l>And with its Fruitful Beams <hi>invades</hi> the Earth.</l>
+               <l>The Neighbouring <hi>Isle</hi> was not so wise as we,</l>
+               <l>That could not taste the Sweets of Liberty,</l>
+               <l>But the Event of Bloody War would see.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>You</hi> of all <hi>Princes</hi> like, and need Praise least,</l>
+               <l>Yet must it in your Story be exprest:</l>
+               <l>Excuse your <hi>Poet</hi> who your Praise must Write,</l>
+               <l>If as <hi>Historian</hi> he your <hi>Deeds</hi> recite.</l>
+               <l>Who can but with <hi>Poetick</hi> Heat be warm'd</l>
+               <l>By your great <hi>Wonders</hi> at the <hi>Boin</hi> perform'd?</l>
+               <l>Whose <hi>Spirit</hi> Kindled up the Fainting <hi>War</hi>
+               </l>
+               <l>Into a <hi>Flame,</hi> which spread out wide and far.</l>
+               <l>None e're so wisely Led, so bravely Fought:</l>
+               <l>By <hi>You</hi> thus fir'd, by your Example taught,</l>
+               <l>Your <hi>Leaders</hi> since vast <hi>Miracles</hi> have wrought:</l>
+               <l>Which with <hi>Amazement</hi> the <hi>French Generals</hi> fill'd</l>
+               <l>Though bold in <hi>Arms,</hi> and much in <hi>Conduct</hi> skill'd:</l>
+               <l>Not <hi>Art,</hi> nor <hi>Nature</hi> could their Men Secure</l>
+               <l>Against such <hi>Daring Souls</hi> as would no Bounds endure.</l>
+               <l>Inspir'd by <hi>Your</hi> great <hi>Cause</hi> and <hi>Mighty Name,</hi>
+               </l>
+               <l>They thought no <hi>Price</hi> too dear to pay for <hi>Fame.</hi>
+               </l>
+               <l>No Difficulty could your <hi>Arms</hi> oppose,</l>
+               <l>No Hold was strong enough to Guard your <hi>Foes,</hi>
+               </l>
+               <l>Not <hi>Forts,</hi> not <hi>Towns,</hi> nor <hi>Camps</hi> more strong than those;</l>
+               <l>Not Treacherous <hi>Bogs,</hi> nor Rapid <hi>Floods</hi> could serve,</l>
+               <l>No <hi>Hills,</hi> no <hi>Streightness, Rebels</hi> could preserve:</l>
+               <l>But every where before your <hi>Troops</hi> they fall,</l>
+               <l>So well they Copied out their <hi>Great Original.</hi>
+               </l>
+               <pb n="3" facs="tcp:61893:3"/>
+               <l>What <hi>Triumphs</hi> had another <hi>Scene</hi> Adorn'd,</l>
+               <l>But the <hi>Grand Lewis</hi> had too well been warn'd;</l>
+               <l>And those who felt what you before had done,</l>
+               <l>
+                  <hi>Ingloriously</hi> the proffer'd <hi>Combat</hi> shun;</l>
+               <l>And in their <hi>Coverts</hi> clos'd, the <hi>Beasts of Prey</hi>
+               </l>
+               <l>Stir'd not, till the <hi>Great Nimrod</hi> was away.</l>
+               <l>A <hi>Foe</hi> t'his Face, they never' dare Attack,</l>
+               <l>But soon grow Furious, if he turns his Back.</l>
+            </lg>
+            <lg>
+               <l>Nor durst their <hi>Boasting</hi> and <hi>Vain-glorious Fleet</hi>
+               </l>
+               <l>Your <hi>Gallant</hi> well appointed <hi>Navy</hi> meet.</l>
+               <l>Your <hi>Person</hi> cannot in each Place appear,</l>
+               <l>Where your own <hi>Ensigns</hi> fly, your <hi>Vertue's</hi> there.</l>
+               <l>Though ev'ry Night the <hi>Sun</hi> his Beams withdraws,</l>
+               <l>His <hi>Influence</hi> yet by Night does <hi>huge Productions</hi> cause.</l>
+            </lg>
+            <lg>
+               <l>But loe, the busie and enquiring <hi>Muse,</hi>
+               </l>
+               <l>Did <hi>Fates Mysterious Volumes</hi> late peruse;</l>
+               <l>Those <hi>Hidden Rolls</hi> which to the <hi>World</hi> give <hi>Law,</hi>
+               </l>
+               <l>Where she the <hi>Rise,</hi> and <hi>Fall</hi> of <hi>Empires</hi> saw;</l>
+               <l>She in a <hi>Vision</hi> whisper'd to my Ear,</l>
+               <l>That a more <hi>Wondrous Scene</hi> would yet appear,</l>
+               <l>And this should be the most <hi>Important Year;</hi>
+               </l>
+               <l>That my <hi>Great Master</hi> was by <hi>Fate</hi> design'd</l>
+               <l>To <hi>Quiet</hi> the <hi>Disturber</hi> of <hi>Mankind.</hi>
+               </l>
+               <l>And <hi>Sir,</hi> the <hi>Happy Time's</hi> approaching now,</l>
+               <l>When <hi>his</hi> to your <hi>Superior Fate</hi> must bow:</l>
+               <l>Who shall <hi>Invade</hi> him in his <hi>Tenderest</hi> part,</l>
+               <l>And bend or break his too <hi>Imperious Heart:</hi>
+               </l>
+               <l>His <hi>Violence</hi> and <hi>Rapine</hi> bring to Naught,</l>
+               <l>Which have through <hi>Europe</hi> such <hi>Destruction</hi> wrought.</l>
+               <l>
+                  <hi>You Sir,</hi> shall make those <hi>dire Convulsions</hi> cease</l>
+               <l>And give the <hi>Shaken World</hi> a <hi>firm</hi> and <hi>glorious Peace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:61893:4"/>
+               <l>
+                  <hi>Almighty Power</hi> make this <hi>Prediction</hi> true,</l>
+               <l>And with <hi>Success</hi> in all things prosper <hi>You;</hi>
+               </l>
+               <l>
+                  <hi>Heaven</hi> from th'Abundance of its <hi>precious Store,</hi>
+               </l>
+               <l>Such <hi>Blessings</hi> on your <hi>Royal Temples</hi> pour,</l>
+               <l>Till you can ask, and that can give no more.</l>
+            </lg>
+            <closer>So Prays <signed>Your Majesties most Dutiful Servant, and most Loyal Subject, Tho. Shadwell.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THE Ingenious and Diverting Letters of the Lady — Travels into <hi>Spain;</hi> Describing the Devotions, Nunneries, Humours, Customs, Laws, Militia, Trade, Diet and Recreations of that People. Intermixt with great Variety of Modern Adventures, and Surprising Accidents: Being the Truest and Best Remarks Extant on that Court and Country. First and Second Part, Printed for <hi>Samuel Crouch.</hi>
+            </p>
+            <pb facs="tcp:61893:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
